@@ -1,1 +1,1 @@
-add_lunch_combo cm_xt907-userdebug
+add_lunch_combo slim_xt907-userdebug
